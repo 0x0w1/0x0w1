@@ -1,4 +1,4 @@
-## Hi there, I'm kkamikoon. 👋
+## Hi there, I'm `developer` & `security researcher`. 👋
 <a href="https://kkamikoon.com" target="_blank"><img src="https://img.shields.io/badge/-blog%20%E2%98%95-yellow"/></a>
 <a href="https://kkamikoon.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-Tistory%20%F0%9F%8E%83-yellowgreen"/></a>
 <a href="mailto:kkamikoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mail%20%F0%9F%93%AB-orange"/></a>
