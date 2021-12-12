@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./dokkaebi_yelling.gif"/>
-  <h2 align="center" style="font-weight: 700"> Hi there, I'm kkamikoon 👋</h2>
+  <p align="center" style="font-size: 1.5em;font-weight: 700">Hi there, I'm kkamikoon 👋</p>
 </p>
 <p align="center">
     <a href="https://kkamikoon.com" target="_blank"><img src="https://img.shields.io/badge/-blog%20%E2%98%95-yellow"/></a>
@@ -9,10 +9,10 @@
 </P>
 
 --- 
-<h2 align="center" style="font-weight: 700">💪 Tech Stacks</h2>
-<p align="center" style="font-weight: 600">
+<p align="center" style="font-size: 1.5em;font-weight: 700">💪 Tech Stacks</p>
+<h4 align="center" style="font-weight: 600">
     Techs that I've used
-</p>
+</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
@@ -20,9 +20,9 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
 </p>
-<p align="center" style="font-weight: 600">
+<h4 align="center" style="font-weight: 600">
     Tools that I've used
-</p>
+</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
     <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
@@ -39,6 +39,7 @@
 
 ---
 ![kkamikoon's Github stats](https://github-readme-stats.vercel.app/api?username=kkamikoon&show_icons=true&theme=great-gatsby&hide=contribs,issues&bg_color=0d1117&title_color=c9d1d9)
+
 <!--
 **kkamikoon/kkamikoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
