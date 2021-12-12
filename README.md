@@ -1,28 +1,12 @@
 <p align="center">
   <img src="./dokkaebi_yelling.gif"/>
   <h2 align="center" style="font-weight: 700"> Hi there, I'm kkamikoon 👋</h2>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-  </p>
 </p>
-
----
-<p>
-    👋&nbsp; Hi there! I'm <code><b>Back-end developer</b></code> using DRF(Django Rest-Framework) and Flask. 🚀<br/>
-    I also like to research any security techs 🕵️‍♂️. </br>
-    I enjoy cooking🍖, taking pics📸, and traveling🚋.</br>
-</p>
-<p>
+<p align="center">
     <a href="https://kkamikoon.com" target="_blank"><img src="https://img.shields.io/badge/-blog%20%E2%98%95-yellow"/></a>
     <a href="https://kkamikoon.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-Tistory%20%F0%9F%8E%83-yellowgreen"/></a>
     <a href="mailto:kkamikoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mail%20%F0%9F%93%AB-orange"/></a>
 </P>
-
-![kkamikoon's Github stats](https://github-readme-stats.vercel.app/api?username=kkamikoon&show_icons=true&theme=great-gatsby)
 
 --- 
 <h2 align="center" style="font-weight: 700">💪 Tech Stacks</h2>
@@ -52,6 +36,9 @@
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=black"/>
     <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=black"/>
 </p>
+
+---
+![kkamikoon's Github stats](https://github-readme-stats.vercel.app/api?username=kkamikoon&show_icons=true&theme=great-gatsby&hide=contribs,issues&bg_color=0d1117&title_color=c9d1d9)
 <!--
 **kkamikoon/kkamikoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
