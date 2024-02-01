@@ -1,7 +1,6 @@
 ## Hi there!
 ### I'm a `developer` & `security researcher`. 👋
-<a href="https://velog.io/@kkamikoon" target="_blank"><img src="https://img.shields.io/badge/-velog%20%F0%9F%93%9A-brightgreen"/>
-<a href="https://kkamikoon.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-Tistory%20%F0%9F%8E%83-yellowgreen"/></a>
+<a href="https://0x00.kr" target="_blank"><img src="https://img.shields.io/badge/-Blog%20%F0%9F%8E%83-yellowgreen"/></a>
 <a href="mailto:kkamikoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mail%20%F0%9F%93%AB-orange"/></a>
 
 --- 
@@ -12,7 +11,6 @@
 <p>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
 </p>
@@ -29,7 +27,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>
 <br>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=black"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=black"/>
 </p>
 
