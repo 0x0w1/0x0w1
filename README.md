@@ -1,5 +1,5 @@
 ## Hi there!
-### I'm a `developer` & `security researcher`. 👋
+### I'm a `software engineer`. And i also have a keen interest in security. 👋
 <a href="mailto:kkamikoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mail%20%F0%9F%93%AB-orange"/></a>
 <a href="https://www.linkedin.com/in/goldstar-dev/" target="_blank"><img src="https://img.shields.io/badge/Linked_In-2c2cf7?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="border-radius: 10px;"></a>
 <a href="https://www.0x00.kr" target="_blank"><img src="https://img.shields.io/badge/-0x00.kr%20%F0%9F%8E%83-grey"/></a>
