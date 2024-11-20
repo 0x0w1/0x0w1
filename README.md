@@ -46,7 +46,7 @@
 </p>
 
 ---
-![kkamikoon's Github stats](https://github-readme-stats.vercel.app/api?username=0x0w1&show_icons=true&theme=great-gatsby&hide=contribs,issues&bg_color=0d1117&title_color=c9d1d9)
+![0x0w1's Github stats](https://github-readme-stats.vercel.app/api?username=0x0w1&show_icons=true&theme=great-gatsby&hide=contribs,issues&bg_color=0d1117&title_color=c9d1d9)
 
 
 <!-- Thanks to `https://github.com/Ileriayo/markdown-badges/blob/master/README.md` -->
